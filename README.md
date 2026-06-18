@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I am Ahmad
 
-<!--
-**Ahmad-2627/ahmad-2627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering student based in Lahore, Pakistan.
 
-Here are some ideas to get you started:
+Currently building my foundation in:
+- Linux and Terminal
+- Git and GitHub
+- Python for Data Engineering
+- SQL and Databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I am working on
+
+Structured Data Engineering roadmap — from fundamentals to job-ready skills.
+Building real projects at every step.
+
+## Projects
+
+- data-pipeline-organizer — Automated Bash pipeline organizer with logging and error handling
+
+## Currently Learning
+
+Phase 2 — Git and GitHub
+
+## Connect
+
+LinkedIn: (add your link here later)
