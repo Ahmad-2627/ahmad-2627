@@ -23,4 +23,4 @@ Phase 2 — Git and GitHub
 
 ## Connect
 
-LinkedIn: (add your link here later)
+LinkedIn: (https://www.linkedin.com/in/muhammad-ahmad-751477369/)
