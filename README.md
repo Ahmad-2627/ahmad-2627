@@ -79,15 +79,15 @@ lab-reports/
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmad-2627_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-2627_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-2627&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-2627&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
 
 ---
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-ahmad-751477369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmad-751477369/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ahmadbhatti.2726)
 
 ---
